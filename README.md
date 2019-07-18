@@ -11,6 +11,12 @@
 sadasdas
 
 
+<<<<<<< HEAD
+=======
+adssad
+
+
+>>>>>>> 1.2
 asdasdas
 
 sada
